@@ -1,0 +1,1 @@
+*, *::before, *::after {box-sizing:border-box;margin:0; background-color:rgb(30, 30, 30);color:rgb(99, 255, 213);};html, body { height:100%; background-color:rgba(45,145,45,0.8); };

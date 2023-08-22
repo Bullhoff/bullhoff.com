@@ -1,0 +1,32 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-3.15 -3.15 27.30 27.30"
+    xmlns="http://www.w3.org/2000/svg" fill="#ffffff" 
+    stroke="#ffffff">
+
+    <g id="SVGRepo_bgCarrier" stroke-width="0" />
+
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC"
+        stroke-width="1.26">
+        <g fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-linecap="round"
+            stroke-linejoin="round" transform="translate(3 3)"
+        >
+            <path
+                d="m14.5 9.5v-7c0-1.1045695-.8954305-2-2-2h-7c-1.1045695 0-2 .8954305-2 2v7c0 1.1045695.8954305 2 2 2h7c1.1045695 0 2-.8954305 2-2z" />
+            <path
+                d="m11.5 11.5v1c0 1.1045695-.8954305 2-2 2h-7c-1.1045695 0-2-.8954305-2-2v-7c0-1.1045695.8954305-2 2-2h1" />
+        </g>
+    </g>
+
+    <g id="SVGRepo_iconCarrier">
+        <g fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-linecap="round"
+            stroke-linejoin="round" transform="translate(3 3)"
+        >
+            <path
+                d="m14.5 9.5v-7c0-1.1045695-.8954305-2-2-2h-7c-1.1045695 0-2 .8954305-2 2v7c0 1.1045695.8954305 2 2 2h7c1.1045695 0 2-.8954305 2-2z" />
+            <path
+                d="m11.5 11.5v1c0 1.1045695-.8954305 2-2 2h-7c-1.1045695 0-2-.8954305-2-2v-7c0-1.1045695.8954305-2 2-2h1" />
+        </g>
+    </g>
+
+</svg>

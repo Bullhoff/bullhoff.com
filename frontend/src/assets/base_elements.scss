@@ -1,0 +1,45 @@
+/* 
+::-webkit-scrollbar {
+	scrollbar-color: rebeccapurple green;
+	width: 8px;
+} */
+
+details{
+	summary{
+		cursor: pointer;
+	}
+}
+textarea {
+	background-color: black;
+	color: rgb(177, 177, 177);
+}
+
+select {
+	min-width: 5ch;
+	background-color: var(--vt-c-black);
+	color: var(--vt-c-text-dark-1);
+}
+
+input {
+	background-color: var(--vt-c-black);
+	color: var(--vt-c-text-dark-1);
+}
+
+.button,
+button {
+	cursor: pointer;
+	border: 0.1ch solid blue;
+	border-radius: 0.5ch;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: rgb(255, 255, 255);
+	padding: 2px 5px;
+	font-weight: bold;
+	white-space: nowrap;
+	//align-self: stretch;
+}
+
+.button:hover,
+button:hover {
+	color: yellow;
+	box-shadow: 1ch;
+}
